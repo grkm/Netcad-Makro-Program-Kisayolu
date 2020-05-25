@@ -1,5 +1,5 @@
 # Netcad Makro Kullanılarak Menülere Program Kısayolu Eklenmesi
-vbscript ve netcad makro api kullanılarak netcad üzerinden bilgisayarınızdaki istediğiniz bir konumadaki programın kısayolunu netcad menülerine ekleyebilirsiniz.
+vbscript ve netcad makro api kullanılarak netcad üzerinden bilgisayarınızdaki istediğiniz bir konumdaki programın kısayolunu netcad menülerine ekleyebilirsiniz.
 
 Not! 1: Netcad dizini içindeki "MODUL" klasörü altına ilgili ".mnu" dosyasıyla ve simgesiyle beraber makroyu kopyalamanız gerekiyor.
 
