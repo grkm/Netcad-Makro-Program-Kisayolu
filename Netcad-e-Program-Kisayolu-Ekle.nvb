@@ -6,7 +6,8 @@ sub main
 with netcad
 Dim objShell
 Set objShell = CreateObject("WScript.Shell")
-objShell.Run("""C:\tecviz.exe""/command:repobrowser") 'Çalıştıracağınız dosyanın konumu bu alana gelecek
+'Çalıştıracağınız programın ismi ve konumu bu alana gelecek
+objShell.Run("""C:\PROGRAM-KONUMU\PROGRAM-İSMİ.exe""/command:repobrowser")
 Set objShell = Nothing
 end with
 end sub
