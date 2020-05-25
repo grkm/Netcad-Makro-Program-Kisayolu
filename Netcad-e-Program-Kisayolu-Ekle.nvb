@@ -1,6 +1,9 @@
 'Netcad üzerinden bilgisayarınıdaki bir konumdaki yazılım için kısayol oluşturan vbscript makrosu
 '15.03.2020
-'Salih Görkem TABAK - gorkemtabak@gmail.com
+'Salih Görkem TABAK - Jeodezi ve Fotogrametri Mühendisi
+'gorkemtabak@gmail.com
+'https://gorkemtabak.blogspot.com
+'https://github.com/grkm
 
 sub main
 with netcad
