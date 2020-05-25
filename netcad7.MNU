@@ -3,9 +3,9 @@
   <UserMenu>
     <ID>900</ID>
     <ExecutedFile>C:\Netcad7\MODUL\Netcad-e-Program-Kisayolu-Ekle.nvb</ExecutedFile>
-    <ButtonName>Grkm Kýsayol Aç</ButtonName>
-    <RibbonName>Grkm Kýsayol Aç</RibbonName>
-	<GroupName>Grkm Kýsayol Aç</GroupName>
+    <ButtonName>Grkm KÄ±sayol AÃ§</ButtonName>
+    <RibbonName>Grkm KÄ±sayol AÃ§</RibbonName>
+	<GroupName>Grkm KÄ±sayol AÃ§</GroupName>
     <IconFile>C:\Netcad7\MODUL\Netcad-e-Program-Kisayolu-Ekle.bmp</IconFile>
     <ButtonViewIndex>0</ButtonViewIndex>
     <Priority>0</Priority>
