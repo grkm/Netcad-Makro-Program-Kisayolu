@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfUserMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserMenu>
+    <ID>900</ID>
+    <ExecutedFile>C:\Netcad7\MODUL\Netcad-Uzerinden-Programý-Ac.nvb</ExecutedFile>
+    <ButtonName>Grkm Kýsayol Aç</ButtonName>
+    <RibbonName>Grkm Kýsayol Aç</RibbonName>
+	<GroupName>Grkm Kýsayol Aç</GroupName>
+    <IconFile>C:\Netcad7\MODUL\Netcad-Uzerinden-Programý-Ac.bmp</IconFile>
+    <ButtonViewIndex>0</ButtonViewIndex>
+    <Priority>0</Priority>
+  </UserMenu>
+</ArrayOfUserMenu>
