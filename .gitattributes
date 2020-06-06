@@ -1,3 +1,4 @@
 *.vba text eol=crlf
+*.vba linguist-detectable=true
 *.xml linguist-detectable=false
 *.mnu linguist-detectable=false
